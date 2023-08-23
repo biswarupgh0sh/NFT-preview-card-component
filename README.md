@@ -10,6 +10,14 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshots
+## desktop 
+
+![image](https://github.com/biswarupgh0sh/NFT-preview-card-component/assets/73950565/3f017539-d1a6-4edd-93e7-e4a014ed069a)
+
+## mobile
+
+![image](https://github.com/biswarupgh0sh/NFT-preview-card-component/assets/73950565/2bce6fc1-1eed-46ac-b5e3-c8188339592b)
+
 
 ### Built with
 
